@@ -19,5 +19,5 @@
 	<img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
 	<img src="https://img.shields.io/badge/Mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 	<img src="https://img.shields.io/badge/C-03c?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-	<img src="https://img.shields.io/badge/C++-2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>	
+	<img src="https://img.shields.io/badge/C++-660066?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>	
 </p>
