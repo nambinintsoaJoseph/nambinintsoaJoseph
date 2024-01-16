@@ -1,4 +1,4 @@
-<img src="assets/header-image.png" alt="header image for nambinintsoajoseph github profile">
+<img src="header-image.png" alt="header image for nambinintsoajoseph github profile">
 <h1>Hi 👋, I'm Nambinintsoa Joseph</h1>
 
 - 🔥 I’m currently learning **React** and **Symfony**
