@@ -1,4 +1,7 @@
 <img src="header-image.png" alt="header image for nambinintsoajoseph github profile">
+
+![Profile views](https://komarev.com/ghpvc/?username=nambinintsoaJoseph)
+
 <h1>Hi 👋, I'm Nambinintsoa Joseph</h1>
 
 - 🔥 I’m currently learning **React** and **Symfony**
