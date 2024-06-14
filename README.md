@@ -2,11 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nambinintsoaJoseph)
 
-<img src="snack.svg" alt="Snack github contribution" />
 
 <h1>Hi 👋, I'm Nambinintsoa Joseph</h1>
 
-- 🔥 I’m currently learning **React** and **Symfony**
+- 🔥 I am **React** , **React Native** and **Symfony** Developer
 - 💬 Ask me about **JavaScript** or **PHP**
 - 🗨 How to reach me **raznambinintsoa3@gmail.com**
 
