@@ -3,6 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=nambinintsoaJoseph)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7DC&random=false&width=560&lines=Hello.+%F0%9F%91%8B%F0%9F%8F%BB;I+am+React%2C+React+Native+and+Symfony+developer.)](https://git.io/typing-svg)
+
 <h1>Hi 👋, I'm Nambinintsoa Joseph</h1>
 
 - 🔥 I am **React** , **React Native** and **Symfony** Developer
