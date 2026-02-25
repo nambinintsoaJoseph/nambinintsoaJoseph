@@ -12,7 +12,7 @@
 	<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/CSS3-03A9F4?style=for-the-badge&logo=html5&logoColor=white" alt="CSS3">
 	<img src="https://img.shields.io/badge/Sass-C03?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-	<img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 	<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 	<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 	<img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
@@ -33,3 +33,10 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake-dark.svg">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake.svg">
+		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
