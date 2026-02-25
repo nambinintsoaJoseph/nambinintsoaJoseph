@@ -4,12 +4,12 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nambinintsoaJoseph)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&pause=800&color=A78BFA&width=400&lines=while(!succeed)+%7B+tryAgain()+%7D;Code+|+Improve+|+Innovate)
+![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&pause=800&color=A78BFA&width=400&lines=while(!succeed)+%7B+tryAgain()+%7D;Code+|+Improve+|+Innovate>)
 
+## Skills and tools
 
-<h2 align="left">Skills and tools :</h2>
 <p align="center">
-	<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/CSS3-03A9F4?style=for-the-badge&logo=html5&logoColor=white" alt="CSS3">
 	<img src="https://img.shields.io/badge/Sass-C03?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
@@ -33,10 +33,20 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
+## GitHub activity
+
 <p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake-dark.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake.svg">
-		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake.svg">
-	</picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=nambinintsoaJoseph&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=nambinintsoaJoseph&theme=default">
+        <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=nambinintsoaJoseph&theme=default">
+    </picture>
+</p>
+
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nambinintsoaJoseph/nambinintsoaJoseph/output/github-contribution-grid-snake.svg">
+    </picture>
 </p>
